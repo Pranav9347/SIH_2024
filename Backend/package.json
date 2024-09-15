@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Pranav9347/SIH_2024#readme",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "express": "^4.21.0",
     "nodemon": "^3.1.4"
   }
