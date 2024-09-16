@@ -201,7 +201,10 @@ form.sign-up-form{
     z-index:2;
     opacity:1;
 }
-
+.error {
+    color: red;
+    margin-top: 10px;
+  }
 
 
 
